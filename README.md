@@ -16,9 +16,9 @@ scikit-learn==0.23.1
 # Solution
 
 A CNN+LSTM based multi-stream model is used here to forecast the *nino3.4* index.
-
+## model structure
 ![model](./img/model.png)
-
+## layer
 <img src="./img/layer.png" style="zoom: 50%;" />
 
 # Rank
